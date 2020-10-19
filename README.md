@@ -1,6 +1,6 @@
 ## ElectionSQL
 
-This application uses sqlite3 queries and express.js routes to create a working election node back end.
+This application database uses sqlite3 queries and express.js routes to create a working election node back end.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 

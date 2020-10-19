@@ -1,7 +1,7 @@
 {
-  "name": "u-develop-it",
+  "name": "ElectionSQL",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application database uses sqlite3 queries and express.js routes to create a working election node back end.",
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MBrassey/u-develop-it.git"
+    "url": "git+https://github.com/MBrassey/ElectionSQL.git"
   },
   "keywords": [],
   "author": "Matt Brassey",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/MBrassey/u-develop-it/issues"
+    "url": "https://github.com/MBrassey/ElectionSQL/issues"
   },
-  "homepage": "https://github.com/MBrassey/u-develop-it#readme",
+  "homepage": "https://github.com/MBrassey/ElectionSQL#readme",
   "dependencies": {
     "express": "^4.17.1",
     "sqlite3": "^5.0.0"
