@@ -39,9 +39,9 @@ This application database uses sqlite3 queries and express.js routes to create a
     PUT: http://localhost:3001/api/candidate/7
     DELETE: http://localhost:3001/api/candidate/7
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://ElectionSQL-mbrassey.herokuapp.com/">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://election-sql-mbrassey.herokuapp.com/">webapplication</a></p></h6>
 
-[<p align="center"><img src="lib/Preview.gif">](https://ElectionSQL-mbrassey.herokuapp.com/)
+[<p align="center"><img src="lib/Preview.gif">](https://election-sql-mbrassey.herokuapp.com/)
 
 #### Questions
 
