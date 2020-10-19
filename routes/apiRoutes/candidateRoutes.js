@@ -99,12 +99,6 @@ router.put("/candidate/:id", (req, res) => {
 
 // Delete Candidate
 router.delete("/candidate/:id", (req, res) => {
-  const errors = inputCheck(req.body, "party_id");
-
-  if (errors) {
-    res.status(400).json({ error: errors });
-    return;
-  }
   const sql = `DELETE FROM candidates WHERE id = ?`;
   const params = [req.params.id];
   db.run(sql, params, function (err, result) {
